@@ -23,6 +23,7 @@
 #define XVC_COMMON_LIB_CU_TYPES_H_
 
 #include <cstdint>
+#include <array>
 
 namespace xvc {
 
