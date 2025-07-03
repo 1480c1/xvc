@@ -22,6 +22,8 @@
 #ifndef XVC_COMMON_LIB_CU_TYPES_H_
 #define XVC_COMMON_LIB_CU_TYPES_H_
 
+#include <cstdint>
+
 namespace xvc {
 
 enum class NeighborDir {
